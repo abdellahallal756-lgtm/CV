@@ -1,10 +1,3 @@
-Le fichier `index.html` est tout simplement **un document texte qui contient le code du site**. C'est le fichier principal que le navigateur (Chrome, Safari, Firefox) lit pour afficher votre page web.
-
-Puisque vous n'en avez pas encore, **voici comment le créer en 2 minutes sur votre ordinateur** :
-
-### 1. Copiez le code
-Copiez l'intégralité du code ci-dessous (c'est la version bilingue optimisée pour vous) :
-
 ```html
 <!DOCTYPE html>
 <html lang="fr">
